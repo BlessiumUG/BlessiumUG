@@ -53,10 +53,20 @@ Ambitious IT Security Specialist combining an academic background in Information
   <a href="https://www.credly.com/badges/e09a7cdb-37d2-4a1a-b15d-97ff900387a2/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-ISC2%20CC-1D70B8?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity" />
   </a>
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <!-- Cisco CCNA: Introduction to Networks -->
+  <a href="https://www.credly.com/badges/92be48ab-1c61-46dd-b65f-4e4e0ba0e87a/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-CCNA:%20Introduction%20to%20Networks-005A70?&style=for-the-badge&logo=Cisco&logoColor=white" alt="CCNA: Introduction to Networks" />
+  </a>
+
+  <!-- Cisco CCNA: Switching, Routing and Wireless Essentials -->
+  <a href="https://www.credly.com/badges/1b8a26b4-71cd-4f28-b9bc-8d832978dd9e/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-CCNA:%20SRWE-005A70?&style=for-the-badge&logo=Cisco&logoColor=white" alt="CCNA: Switching, Routing, and Wireless Essentials" />
+  </a>
+
+  <!-- Cisco CCNA: Enterprise Networking, Security, and Automation -->
+  <a href="https://www.credly.com/badges/e073af52-a788-4def-9d04-0f6cb7af384f/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-CCNA:%20ENSA-005A70?&style=for-the-badge&logo=Cisco&logoColor=white" alt="CCNA: Enterprise Networking, Security, and Automation" />
+  </a>
 </div>
 
 ## Projects
