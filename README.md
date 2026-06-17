@@ -47,13 +47,13 @@ Ambitious IT Security Specialist combining an academic background in Information
 
 ## Certifications
 <div>
-<a href="[https://www.credly.com/badges/b829fb32-e21d-458c-a086-df16cdb74c30/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/b829fb32-e21d-458c-a086-df16cdb74c30/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
   </a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
