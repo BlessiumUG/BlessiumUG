@@ -1,15 +1,24 @@
-# Hello, I'm BLESSED
-<a href="https://linkedin.com/in/biryaho-blessed-1a02671a4"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 🛡️ Hello, I'm BLESSED
 
-By day, I help manage and secure IT infrastructure as an IT Security administrator. By night (and some weekends), I build hands on lab environments to test defensive configurations, analyze traffic and figure out how to make networks bulletproof.
-This profile is where I document my technical deep dives, automation scripts, findings and security blueprints.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biryaho-blessed-1a02671a4)
 
-Focus areas: Infrastructure security, log analysis, hardening systems, network defense and general IT sec.
+> By day, I help manage and secure IT infrastructure as an **IT Security Administrator**. By night (and some weekends), I build hands on lab environments to test defensive configurations, analyze traffic and figure out how to make networks bulletproof.
 
-Currently tinkering with: Advanced homelab setups and automation scripting.
+> 
+> *This repository serves as my digital workshop where I document my technical deep dives, automation scripts, findings and defensive security blueprints.*
 
-## Objective
-Ambitious IT Security Specialist combining an academic background in Information Technology with **Security+ and ISC2 CC certifications**. Dedicated to continuous skill advancement, infrastructure hardening and structured technical documentation. Looking to contribute proactive threat reduction strategies and reliable administrative support to a high impact cybersecurity environment.
+----
+
+### 🔬 Professional Objective
+Ambitious **IT Security Specialist** combining an academic background in Information Technology with **Security+** and **ISC2 CC** certifications. Dedicated to continuous skill advancement, infrastructure hardening and structured technical documentation. Looking to contribute proactive threat reduction strategies and reliable administrative support to a high-impact cybersecurity environment.
+
+---
+
+### ⚡ At a Glance
+*   **🔭 Focus Areas:** Infrastructure Security • Log Analysis • System Hardening • Network Defense
+*   **🛠️ Currently Tinkering With:** Advanced homelab setups and defensive automation scripting
+
+---
 
 ### 🛠️ Technical Skillset
 
