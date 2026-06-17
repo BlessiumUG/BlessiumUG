@@ -51,8 +51,8 @@ Ambitious IT Security Specialist combining an academic background in Information
   <a href="https://www.credly.com/badges/b829fb32-e21d-458c-a086-df16cdb74c30/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
   </a>
-  <a href="https://www.credly.com/badges/e09a7cdb-37d2-4a1a-b15d-97ff900387a2/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/-ISC2%20CC-1D70B8?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity" />
+  <a href="https://img.shields.io/badge/-ISC2%20CC-005A36?&style=for-the-badge&logo=ISC2&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-ISC2%20CC-005A36?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified in Cybersecurity" />
   </a>
  <!-- Cisco CCNA: Introduction to Networks -->
   <a href="https://www.credly.com/badges/92be48ab-1c61-46dd-b65f-4e4e0ba0e87a/public_url" target="_blank">
