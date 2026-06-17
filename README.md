@@ -11,16 +11,17 @@ Currently tinkering with: Advanced homelab setups and automation scripting.
 ## Objective
 Ambitious IT Security Specialist combining an academic background in Information Technology with **Security+ and ISC2 CC certifications**. Dedicated to continuous skill advancement, infrastructure hardening and structured technical documentation. Looking to contribute proactive threat reduction strategies and reliable administrative support to a high impact cybersecurity environment.
 
-## Skills
+### 🛠️ Technical Skillset
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM & Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Incident Response & Forensics | <a href="https://google.com">Detection Lab</a>|
+| Endpoint Security (EDR & AV)         | SOC Automation Lab|
+| Vulnerability & Patch Management      | SOC Automation Lab|
+| Network Access Control (NAC)                  | SOC Automation Lab|
+| 802.1X and MAC Authentication Bypass (MAB) | SOC Automation Lab|
+| IT Support & Systems Lifecycle | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
