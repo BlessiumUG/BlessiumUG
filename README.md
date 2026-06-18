@@ -1,4 +1,4 @@
-# 🛡️ Hello, I'm BLESSED
+# 🛡️ Hello, I'm BLESSED <br/><a href="https://linkedin.com/in/biryaho-blessed-1a02671a4">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Blessium">YouTuber</a>, <a href="https://linkedin.com/in/biryaho-blessed-1a02671a4">IT Support</a></h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biryaho-blessed-1a02671a4)
 
