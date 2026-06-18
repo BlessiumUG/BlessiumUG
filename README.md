@@ -82,3 +82,23 @@ Ambitious **IT Security Specialist** combining an academic background in Informa
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## 📺 Popular YouTube Videos
+
+* [How to get into Cybersecurity Starting From Zero](YOUR_YOUTUBE_VIDEO_LINK_1)
+* [A Day in the Life of a Cybersecurity Analyst](YOUR_YOUTUBE_VIDEO_LINK_2)
+* [How to Create a KeyLogger (C#)](YOUR_YOUTUBE_VIDEO_LINK_3)
+* [Ransomware Demonstration (C#)](YOUR_YOUTUBE_VIDEO_LINK_4)
+* [Is WGU Legit?](YOUR_YOUTUBE_VIDEO_LINK_5)
+
+## 🤳 Connect with me:
+
+<p align="left">
+  <a href="https://www.youtube.com/@Blessium" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="28" alt="YouTube" />
+  </a>
+
+  <a href="https://linkedin.com/in/biryaho-blessed-1a02671a4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+  </a>
+</p>
