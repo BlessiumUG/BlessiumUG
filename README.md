@@ -33,7 +33,9 @@ Ambitious **IT Security Specialist** combining an academic background in Informa
 | IT Support & Systems Lifecycle | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<a href="https://youtu.be/O2iy87MuNsE?si=W1bN74_6kMj1eE6U" target="_blank">
+  <img src="https://img.shields.io/badge/-VirusTotal%20Tutorial-3949AB?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal Tutorial" height="25" />
+</a>
 
 ### Network
 <div>
