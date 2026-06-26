@@ -87,7 +87,7 @@ Ambitious **IT Security Specialist** combining an academic background in Informa
 
 ## 📺 Popular YouTube Videos
 
-* [How to get into Cybersecurity Starting From Zero](YOUR_YOUTUBE_VIDEO_LINK_1)
+* [How Pros Investigate Sketchy Links & Files Instantly (100% Free)](https://youtu.be/O2iy87MuNsE?si=W1bN74_6kMj1eE6U)
 * [A Day in the Life of a Cybersecurity Analyst](YOUR_YOUTUBE_VIDEO_LINK_2)
 * [How to Create a KeyLogger (C#)](YOUR_YOUTUBE_VIDEO_LINK_3)
 * [Ransomware Demonstration (C#)](YOUR_YOUTUBE_VIDEO_LINK_4)
